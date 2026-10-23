@@ -2,7 +2,7 @@
 
 A portable Windows desktop telemetry dashboard built using **Rainmeter `.ini` configuration** and **PowerShell `.ps1` scripts**. The project includes live CPU, GPU, and RAM panels, history graphs, explanatory hover tooltips, and optional character overlays.
 
-![TRON Telemetry v7 screenshot](assets/tron-telemetry-v7.png)
+![TRON Telemetry v7 screenshot](version7.png)
 
 **Live site (after enabling GitHub Pages):** https://track001.github.io/TRON-Telemetry/  
 **Download:** [TRON Telemetry Portable v7](TRON_Telemetry_Portable_v7.zip)
