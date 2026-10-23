@@ -4,7 +4,6 @@ A portable Windows desktop telemetry dashboard built using **Rainmeter `.ini` co
 
 ![TRON Telemetry v7 screenshot](version7.png)
 
-**Live site (after enabling GitHub Pages):** https://track001.github.io/TRON-Telemetry/  
 **Download:** [TRON Telemetry Portable v7](TRON_Telemetry_Portable_v7.zip)
 
 ## What it monitors
